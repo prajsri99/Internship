@@ -1,0 +1,36 @@
+doctor_id,doctor_name,hospital_id,joining_date,specialty,salary,experience
+101,"John Doe",1,2022-04-01,Cardiology,5000.00,NULL
+102,"Jane Smith",2,2021-03-01,Pediatrics,4500.00,NULL
+103,"Michael Johnson",3,2020-04-01,Orthopaedics,6000.00,NULL
+104,"Sarah Davis",4,2021-03-10,"Internal Medicine",5500.00,NULL
+105,"Robert Wilson",5,2019-02-11,Dermatology,5200.00,NULL
+106,"Emily Thomson",6,2020-01-01,Neurology,5800.00,NULL
+107,"David Anderson",7,2021-08-11,Opthalmolgy,5300.00,NULL
+108,"Jennifer lee",8,2023-04-01,Gastrornterology,5400.00,NULL
+109,"Mathew Turner",9,2021-01-08,Psychiatry,5600.00,NULL
+110,Olivia,10,2017-06-23,"Family Medicine",5900.00,NULL
+111,"William Garcia",11,2018-09-21,"Emergency Medicine",5100.00,NULL
+112,"Sophia Martinez",12,2016-05-18,"Obstetrics and Gynecology",5700.00,NULL
+113,"Michael Brown",13,2023-05-06,Orthopedics,5000.00,NULL
+114,Prajwal,14,2021-03-02,"Allergy and Immunology",6300.00,NULL
+115,Aashu,15,2020-06-08,Anesthesiology,5900.00,NULL
+116,Saurabh,16,2016-02-20,"Colon and Rectal Surgeon",6200.00,NULL
+117,Rohith,17,2019-10-01,"General Surgery",5400.00,NULL
+118,Nikhil,18,2018-09-01,ENT,5600.00,NULL
+119,Rajini,19,2014-03-02,"Forensic Pathology",6800.00,NULL
+120,Sridhar,20,2021-01-01,"Genetics and Genomics",4500.00,2
+121,Alisha,21,2020-03-16,"Pediatric Surgery",4600.00,NULL
+122,Venky,22,2017-07-10,"Hospice and Palliative medicine",3900.00,NULL
+123,ABC,23,2013-02-04,"Hospital Medicine",5400.00,NULL
+124,Shiv,24,2016-01-03,"Internal Medicine",3400.00,NULL
+125,Vish,25,2019-03-01,"Obstetrics and Gynacology",2900.00,NULL
+126,Vicky,26,2021-06-01,"Opthalmic Surgery",6900.00,NULL
+127,Vikram,27,2018-01-03,Otolaryngology,5000.00,NULL
+128,Appu,28,2019-06-03,Pathology,5200.00,NULL
+129,VS,29,2022-04-01,Pediatrics,4300.00,NULL
+130,"John Doe",30,2014-02-27,"Plastic Surgery",6200.00,NULL
+131,Golu,31,2017-07-01,Homeopathy,4300.00,NULL
+132,CHeedu,32,2015-05-01,"Preventive Medicine",5100.00,NULL
+133,Labu,33,2016-03-02,Psychiatry,3200.00,NULL
+134,Benne,34,2011-04-01,Radiology,3200.00,NULL
+135,Potato,35,2018-06-12,Rheumatology,3100.00,NULL

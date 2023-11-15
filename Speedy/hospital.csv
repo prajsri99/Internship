@@ -1,0 +1,36 @@
+hospital_id,hospital_name,bed_count
+1,"St Mary",300
+2,"St Teresa",100
+3,Columbia,50
+4,"St Lukes",150
+5,"Middlesex Hospital",250
+6,"Priority Hospital",350
+7,"Royal London",500
+8,"St Ann",400
+9,Gordon,100
+10,Mallya,900
+11,"St Pancras",55
+12,"Indira Gandhi",230
+13,Nightingale,120
+14,"St Peter",600
+15,"King George",310
+16,claybury,1000
+17,Wellington,430
+18,"St Leonard",100
+19,"Mile end",250
+20,Oldchurch,700
+21,Queens,400
+22,Hammersmith,520
+23,Fulham,120
+24,Friern,150
+25,"St Mark",300
+26,Bromley,130
+27,Guys,500
+28,Lambeth,420
+29,"London Bridge",600
+30,Maudsley,800
+31,Priory,50
+32,"Queen Mary",700
+33,"St Thomas",800
+34,"St Alfege",570
+35,Barnes,570
